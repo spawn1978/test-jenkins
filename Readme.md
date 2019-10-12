@@ -1,3 +1,3 @@
 Test-Jenkins
 
-*** Practicando comandos de Git ***
+ Practicando comandos de Git
